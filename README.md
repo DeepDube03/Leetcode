@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/DeepDube03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/DeepDube03/Leetcode/tree/master/0415-add-strings) |
 | [1816-truncate-sentence](https://github.com/DeepDube03/Leetcode/tree/master/1816-truncate-sentence) |
 ## Simulation
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/DeepDube03/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/DeepDube03/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
