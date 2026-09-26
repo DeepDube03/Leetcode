@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/DeepDube03/Leetcode/tree/master/0415-add-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepDube03/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1816-truncate-sentence](https://github.com/DeepDube03/Leetcode/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/DeepDube03/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeepDube03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/DeepDube03/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
