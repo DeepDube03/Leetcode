@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DeepDube03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeepDube03/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/DeepDube03/Leetcode/tree/master/1816-truncate-sentence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeepDube03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeepDube03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeepDube03/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3904-smallest-stable-index-ii](https://github.com/DeepDube03/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeepDube03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeepDube03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeepDube03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeepDube03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DeepDube03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepDube03/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeepDube03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeepDube03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
