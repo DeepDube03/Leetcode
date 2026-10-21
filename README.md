@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/DeepDube03/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1816-truncate-sentence](https://github.com/DeepDube03/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DeepDube03/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/DeepDube03/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
